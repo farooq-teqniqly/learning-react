@@ -1,0 +1,20 @@
+[
+    {
+        "id": "4e836e76-2dab-4f20-a0d4-c2fcd2e3d9dc",
+        "title": "Ocean At Dusk",
+        "color": "#00c4e2",
+        "rating": 5
+    },
+    {
+        "id": "fb2a5580-e9bc-49fd-a32f-8eedff87a100",
+        "title": "Lawn",
+        "color": "#26ac56",
+        "rating": 3
+    },
+    {
+        "id": "bd475816-9dec-485f-8883-fe8275033f9b",
+        "title": "Bright Red",
+        "color": "#ff0000",
+        "rating": 1
+    }
+]
